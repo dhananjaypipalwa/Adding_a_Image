@@ -1,6 +1,6 @@
 # img_add
 
-A new Flutter project.
+This is complete code of adding a photo on a flutter. This helps you in learning the flutter easily and code it as well.
 
 ## Getting Started
 
